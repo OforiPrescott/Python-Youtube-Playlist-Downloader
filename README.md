@@ -37,6 +37,24 @@ Next, you'll need to install the `pytube` library using the following command:
 ```bash
 pip install pytube
 
+```
 
 
+# Contributing
+Contributions to this project are welcome! If you find a bug or have an enhancement in mind, please open an issue or a pull request. Please refer to the Contribution Guidelines for more information.
+
+
+
+#License
+This project is licensed under the MIT License.
+
+
+
+#Contact
+If you have any questions or suggestions, feel free to contact me:
+
+GitHub: https://github.com/OforiPrescott
+Email: nyamekyeprescott3@gmail.com
+Twitter: https://twitter.com/NyamekyePresco1
+Linkdin: https://www.linkedin.com/in/prescott-nyamekye-7a26571b7/
 
